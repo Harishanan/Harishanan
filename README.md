@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harishanan Thevarajah</h1>
 <h3 align="centre">BEng (Hons) Computer Engineering Student from United Kingdom.</h3>
-<h3 align="centre">"Your individuality is your identity."</h3> 
+<h3 align="centre">Your individuality is your identity.</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishanan&label=Profile%20views&color=0e75b6&style=flat" alt="harishanan" /> </p>
 

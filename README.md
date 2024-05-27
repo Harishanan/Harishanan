@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Harishanan Thevarajah</h1>
 <h3 align="center">BEng (Hons) Computer Engineering Student from United Kingdom.</h3>
 

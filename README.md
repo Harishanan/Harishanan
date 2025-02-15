@@ -85,10 +85,14 @@
  <a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;">
    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" />
  </a>
- 
- <a target="_blank" href="https://code.visualstudio.com/" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="42" height="42"/>
+
+<a target="_blank" href="https://www.eclipse.org/emf/" style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" alt="EMF (Eclipse Modeling Framework)" width="50" height="50"/>
 </a>
+ 
+  <a target="_blank" href="https://code.visualstudio.com/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="42" height="42"/>
+  </a>
 
  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
@@ -104,10 +108,6 @@
 
   <a target="_blank" href="https://www.json.org/" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="42" height="42"/>
-  </a>
-
-  <a target="_blank" href="https://www.eclipse.org/modeling/emf/" style="display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" alt="EMF (Eclipse Modeling Framework)" width="50" height="50"/>
   </a>
 </p>
 <br>

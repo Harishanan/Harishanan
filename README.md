@@ -13,15 +13,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
-  </a>  
-
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
-  </a>  
-
+<p align="left">   
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>  
@@ -97,6 +89,14 @@
  <a target="_blank" href="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" style="display: inline-block;">
   <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="42" height="42" />
  </a>
+
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
+  </a>  
+
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
+  </a> 
 </p>
 <br>
 

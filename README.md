@@ -99,8 +99,8 @@
   </a> 
 
   <a target="_blank" href="https://www.w3.org/XML/" style="display: inline-block;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/xml-file-2330554-1950398.png" alt="XML" width="42" height="42"/>
-  </a>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xml_logo.svg" alt="XML" width="42" height="42"/>
+  </a> 
 
   <a target="_blank" href="https://www.json.org/" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="42" height="42"/>

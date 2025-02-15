@@ -78,7 +78,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>  
 </p>
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishanan&show_icons=true&locale=en&layout=compact" alt="harishanan" /></p>
 

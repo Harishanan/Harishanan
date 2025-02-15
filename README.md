@@ -99,7 +99,7 @@
   </a> 
 
   <a target="_blank" href="https://www.w3.org/XML/" style="display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xml_logo.svg" alt="XML" width="42" height="42"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xml_logo.svg" alt="XML" width="50" height="50" />
   </a> 
 
   <a target="_blank" href="https://www.json.org/" style="display: inline-block;">

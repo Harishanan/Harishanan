@@ -97,6 +97,14 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
   </a> 
+
+  <a target="_blank" href="https://www.w3.org/XML/" style="display: inline-block;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/xml-file-2330554-1950398.png" alt="XML" width="42" height="42"/>
+  </a>  
+
+  <a target="_blank" href="https://www.json.org/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="42" height="42"/>
+  </a>
 </p>
 <br>
 

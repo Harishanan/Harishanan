@@ -105,6 +105,10 @@
   <a target="_blank" href="https://www.json.org/" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="42" height="42"/>
   </a>
+
+  <a target="_blank" href="https://www.eclipse.org/modeling/emf/" style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" alt="EMF (Eclipse Modeling Framework)" width="50" height="50"/>
+  </a>
 </p>
 <br>
 

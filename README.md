@@ -85,6 +85,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishanan&show_icons=true&locale=en" alt="harishanan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=harishanan" alt="harishanan"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harishanan&" alt="Harishanan" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harishanan" alt="Harishanan" /></a></p>
 
 </p>

@@ -11,6 +11,9 @@
     <a href="https://github.com/harishanan" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
+    <a href="https://harishanan.github.io/harishanan-portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+    </a>
     <img src="https://komarev.com/ghpvc/?username=harishanan&label=Views&color=0e75b6&style=flat" alt="Profile views">
   </p>
 </div>
